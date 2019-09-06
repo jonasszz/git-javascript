@@ -1,1 +1,1 @@
-# Get ready for Git
+# Git-Javascript
